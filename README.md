@@ -22,6 +22,7 @@ A few reasons:
 * Jon Duckett HTML & CSS book
 * Help from W3 Schools site: https://www.w3schools.com/howto/howto_css_image_text.asp
 * Notepad image from clipart barn site: http://clipartbarn.com/lined-paper-clipart_31085/
+* HTML strikethrough tip from W3 Schools site: https://www.w3schools.com/tags/tag_strike.asp
 * Help from my teacher, classmates and TAs
 
 ## Use:
