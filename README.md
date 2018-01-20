@@ -23,6 +23,10 @@ A few reasons:
 * Help from W3 Schools site: https://www.w3schools.com/howto/howto_css_image_text.asp
 * Notepad image from clipart barn site: http://clipartbarn.com/lined-paper-clipart_31085/
 * HTML strikethrough tip from W3 Schools site: https://www.w3schools.com/tags/tag_strike.asp
+* Help from Stackoverflow for dividing lines here:
+https://stackoverflow.com/questions/14821087/horizontal-line-and-right-way-to-code-it-in-html-css
+* Help from W3 Schools site on bullet lists in CSS:
+https://www.w3schools.com/css/css_list.asp
 * Help from my teacher, classmates and TAs
 
 ## Use:
